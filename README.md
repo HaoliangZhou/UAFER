@@ -1,5 +1,5 @@
 # UAFER
-Official implementation and checkpoints for paper "CEPrompt: Cross-Modal Emotion-Aware Prompting for Facial Expression Recognition" (accepted to Neurocomputing 2024) [![paper](https://img.shields.io/badge/Paper-87CEEB)](https://doi.org/) <be> 
+Official implementation code for paper "UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition" (accepted to Neurocomputing 2024) [![paper](https://img.shields.io/badge/Paper-87CEEB)](https://doi.org/) <be> 
 
 ---
 ### Abstract <br>
