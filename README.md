@@ -92,14 +92,14 @@ bash train.sh
 If you find our work helps, please cite our paper.
 ```
 @ARTICLE{Zhou2024UAFER,
-  author={Zhou, Haoliang and Huang, Shucheng and Zhang, Feifei and Xu, Changsheng},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={CEPrompt: Cross-Modal Emotion-Aware Prompting for Facial Expression Recognition}, 
+  author={Zhou, Haoliang and Huang, Shucheng and Xu, Yuqiao},
+  journal={Neurocomputing}, 
+  title={UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition}, 
   year={2024},
-  volume={34},
-  number={11},
-  pages={11886-11899},
-  doi={10.1109/TCSVT.2024.3424777}
+  volume={},
+  number={},
+  pages={},
+  doi={}
 }
 
 ``` 
